@@ -1,0 +1,21 @@
+0 Nothing
+1 T-shirt
+2 injection
+3 Glass
+4 Paper
+5 Metal
+6 Banana
+7 Metal Spoons
+8 Apple
+9 Bag
+10 Oil
+11 Cabbage
+12 Plastic cover
+13 Food
+14 Rubber
+15 Mother board
+16 Wood
+17 Pen
+18 Battery
+19 Cloth
+20 Laptop
